@@ -10,6 +10,18 @@ A collection of custom Xcode color themes.
 - **Space Grey** — Base, 2, 3, 4, and Customized
 - **eppz!** — Original and customized
 
+## Fonts
+
+Some themes require third-party fonts:
+
+| Font | Required by |
+|------|-------------|
+| [Fira Code](https://github.com/tonsky/FiraCode) | Space Grey (all variants), One Dark |
+| [JetBrains Mono](https://www.jetbrains.com/lp/mono/) | Coming soon |
+| [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) | eppz! (both variants) |
+
+Monaco, Menlo, and SF Mono are built into macOS/Xcode and require no installation.
+
 ## Install
 
 Copy the theme files to your Xcode themes directory:
