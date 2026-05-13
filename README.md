@@ -7,7 +7,7 @@ A collection of custom Xcode color themes.
 - **Catppuccin** — Frappé, Latte, Macchiato, Mocha
 - **Dracula** — Original and customized variants
 - **One Dark**
-- **Space Grey** — Multiple variants
+- **Space Grey** — Base, 2, 3, 4, and Customized
 - **eppz!** — Original and customized
 
 ## Install
